@@ -40,7 +40,7 @@ function Banner() {
         {/* {description} */}
         <p className="banner__desc">{trancateDesc(movie?.overview, 200)}</p>
       </div>
-      <div className="banner__fadeBottom"></div>
+      {/* <div className="banner__fadeBottom"></div> */}
     </header>
   );
 }

@@ -1,0 +1,10 @@
+.footer__end {
+  background-color: black;
+  color: red;
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  font-weight: 500;
+}
